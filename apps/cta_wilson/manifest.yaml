@@ -1,0 +1,8 @@
+---
+id: ctawilsontrains
+name: CTA Wilson Trains
+summary: Red & Purple arrivals
+desc: Live CTA Train Tracker arrival times for the Red and Purple lines at the Wilson stop in Chicago.
+author: tintinex
+fileName: cta_wilson.star
+packageName: ctawilsontrains

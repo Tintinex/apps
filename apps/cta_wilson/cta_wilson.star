@@ -21,8 +21,8 @@ WILSON_MAPID = "41200"
 # CTA reports all times in Chicago local time.
 TIMEZONE = "America/Chicago"
 
-# CTA timestamp format, e.g. "20240915 14:30:00".
-CTA_TIME_FORMAT = "20060102 15:04:05"
+# CTA timestamp format, e.g. "2024-09-15T14:30:00".
+CTA_TIME_FORMAT = "2006-01-02T15:04:05"
 
 # How long to cache the upstream response (seconds). Keeps us well under any rate limit
 # while still feeling live on a 15s display rotation.
